@@ -28,5 +28,4 @@ Here is the dataset used in the video - https://www.nyc.gov/site/tlc/about/tlc-t
 ## Data Model
 <img src="star_schema_screenshot.png">
 
-## Inspired by 
-Video Link - https://youtu.be/WpQECq5Hx9g
+## Inspired by https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project
